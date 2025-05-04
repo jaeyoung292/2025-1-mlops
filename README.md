@@ -5,7 +5,8 @@
 ## 파일 구성
 - `happiness_classification.ipynb`: 전체 코드
 - `requirements.txt`: 환경 설정을 위한 패키지 목록
-- `README.md`: 프로젝트 설명 
+- `README.md`: 프로젝트 설명
+- `archive_2`: 데이터 파일
 
 ## 사용 모델
 - Random Forest (baseline)
