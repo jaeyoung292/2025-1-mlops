@@ -3,13 +3,9 @@
 본 프로젝트는 World Happiness Report 데이터를 기반으로, 각 국가를 행복 수준에 따라 분류하는 모델을 개발하는 MLOps 과제입니다
 
 ## 파일 구성
-- `happiness_classification.ipynb`: 전체 코드와 분석 포함
-- `requirements.txt`: 재현 가능한 환경 구성을 위한 패키지 목록
-- `README.md`: 프로젝트 설명 및 실행 방법 안내
-
-## 실행 방법
-1. Python 3.11 환경에서 아래 명령어 실행: pip install -r requirements.txt
-2. Jupyter 또는 Colab에서 `.ipynb` 파일 실행
+- `happiness_classification.ipynb`: 전체 코드
+- `requirements.txt`: 환경 설정을 위한 패키지 목록
+- `README.md`: 프로젝트 설명 
 
 ## 사용 모델
 - Random Forest (baseline)
